@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/xiaozhai/git/dwm'
+let g:netrw_dirhist_6='/home/xiaozhai/.local/share'
+let g:netrw_dirhist_5='/home/xiaozhai/Documents/script'
+let g:netrw_dirhist_4='/home/xiaozhai/git/dwm/.git'
+let g:netrw_dirhist_3='/home/xiaozhai/bin'
+let g:netrw_dirhist_2='/home/xiaozhai/Documents/cc++/study'
+let g:netrw_dirhist_1='/home/xiaozhai/.config/rofi'
+let g:netrw_dirhist_0='/home/xiaozhai/git/Open-LLM-VTuber/config_alts'
+let g:netrw_dirhist_9='/home/xiaozhai/bin'
+let g:netrw_dirhist_8='/home/xiaozhai/git/Open-LLM-VTuber/live2d-models'
